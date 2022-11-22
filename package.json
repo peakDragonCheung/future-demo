@@ -13,7 +13,7 @@
     "expo-status-bar": "~1.4.2",
     "react": "18.1.0",
     "react-native": "0.70.5",
-    "future-rn-ui": "0.2.19",
+    "future-rn-ui": "0.2.20",
     "expo-updates": "~0.15.4"
   },
   "devDependencies": {
