@@ -23,7 +23,7 @@ const dataInput = [
   // {label: 'AreaPicker', name: 'AreaPicker'},
 ];
 
-import {List} from 'mic-rn-ui';
+import {List} from 'future-rn-ui';
 
 const base = [
   {label: '颜色', name: 'Color'},
